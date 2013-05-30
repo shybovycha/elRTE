@@ -41,7 +41,7 @@ elRTE.prototype.i18Messages.es = {
 	'Superscript'             : 'Superíndice',
 	'Subscript'               : 'Subíndice',
 	'Align left'              : 'Alinear a la izquierda',
-	'Align right'             : 'Alinear a la derecha',
+	'Ailgn right'             : 'Alinear a la derecha',
 	'Align center'            : 'Centrar',
 	'Align full'              : 'Justificado',
 	'Font color'              : 'Color de texto',

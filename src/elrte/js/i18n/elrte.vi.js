@@ -41,7 +41,7 @@ elRTE.prototype.i18Messages.vi = {
 	'Superscript'             : 'Chỉ số trên',
 	'Subscript'               : 'Chỉ số dưới',
 	'Align left'              : 'Canh trái',
-	'Align right'             : 'Canh phải',
+	'Ailgn right'             : 'Canh phải',
 	'Align center'            : 'Canh giữa',
 	'Align full'              : 'Canh đều',
 	'Font color'              : 'Màu chữ',

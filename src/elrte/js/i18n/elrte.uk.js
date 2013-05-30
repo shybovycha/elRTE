@@ -42,7 +42,7 @@ elRTE.prototype.i18Messages.uk = {
 	'Superscript': 'Верхній регістр',
 	'Subscript': 'Нижній регістр',
 	'Align left': 'Вирівняти ліворуч',
-	'Align right': 'Вирівняти праворуч',
+	'Ailgn right': 'Вирівняти праворуч',
 	'Align center': 'Вирівняти по центру',
 	'Align full': 'Вирівняти по краях',
 	'Font color': 'Колір тексту',

@@ -43,7 +43,7 @@ elRTE.prototype.i18Messages.nl = {
 	'Superscript': '',
 	'Subscript': '',
 	'Align left': 'Links uitlijnen',
-	'Align right': 'Rechts uitlijnen',
+	'Ailgn right': 'Rechts uitlijnen',
 	'Align center': 'Centreren',
 	'Align full': 'Uitvullen',
 	'Font color': 'Tekst kleur',
